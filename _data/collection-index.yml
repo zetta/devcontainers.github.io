@@ -743,3 +743,8 @@
   contact: https://github.com/heathprovost/alloy-devcontainer-template/issues
   repository: https://github.com/heathprovost/alloy-devcontainer-template
   ociReference: ghcr.io/heathprovost/alloy-devcontainer-template
+- name: Arch Linux Dev Container Features
+  maintainer: Bart Venter
+  contact: https://github.com/bartventer/arch-devcontainer-features/issues
+  repository: https://github.com/bartventer/arch-devcontainer-features
+  ociReference: ghcr.io/bartventer/arch-devcontainer-features
