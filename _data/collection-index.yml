@@ -753,3 +753,8 @@
   contact: https://github.com/waqqas/feature/issues
   repository: https://github.com/waqqas/feature/
   ociReference: ghcr.io/waqqas/feature
+- name: Veryl
+  maintainer: dalance
+  contact: https://github.com/veryl-lang/devcontainer-features/issues
+  repository: https://github.com/veryl-lang/devcontainer-features/
+  ociReference: ghcr.io/veryl-lang/devcontainer-features
