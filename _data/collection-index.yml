@@ -768,3 +768,8 @@
   contact: https://github.com/duduribeiro/devcontainer-features/issues
   repository: https://github.com/duduribeiro/devcontainer-features/
   ociReference: ghcr.io/duduribeiro/devcontainer-features  
+- name: Dev Container Features by skriptfabrik
+  maintainer: skriptfabrik
+  contact: https://github.com/skriptfabrik/devcontainer-features/issues
+  repository: https://github.com/skriptfabrik/devcontainer-features/
+  ociReference: ghcr.io/skriptfabrik/devcontainer-features
