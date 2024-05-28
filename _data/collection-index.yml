@@ -793,6 +793,11 @@
   contact: https://github.com/rafaph/devcontainer-features/issues
   repository: https://github.com/rafaph/devcontainer-features
   ociReference: ghcr.io/rafaph/devcontainer-features
+- name: SPFx Dev Container
+  maintainer: Troy
+  contact: https://github.com/tpalacino/SPFx-dev-container/issues
+  repository: https://github.com/tpalacino/SPFx-dev-container
+  ociReference: ghcr.io/tpalacino/spfx-dev-container
 - name: GMkonan devcontainer features
   maintainer: GMkonan
   contact: https://github.com/GMkonan/fly-cli-feature/issues
