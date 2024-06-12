@@ -813,3 +813,8 @@
   contact: https://github.com/tonynajjar/ros2_devcontainer_template/issues
   repository: https://github.com/tonynajjar/ros2_devcontainer_template/
   ociReference: ghcr.io/tonynajjar/ros2_devcontainer_template
+- name: Clojure devcontainer templates
+  maintainer: Carsten Behring
+  contact: https://github.com/scicloj/devcontainer-templates/issues
+  repository: https://github.com/scicloj/devcontainer-templates/
+  ociReference: ghcr.io/scicloj/devcontainer-templates  
