@@ -808,6 +808,11 @@
   contact: https://github.com/e-gineering/devcontainer-features/issues
   repository: https://github.com/e-gineering/devcontainer-features
   ociReference: ghcr.io/e-gineering/devcontainer-features
+- name: Dev Container Templates by E-gineering
+  maintainer: E-gineering
+  contact: https://github.com/e-gineering/devcontainer-templates/issues
+  repository: https://github.com/e-gineering/devcontainer-templates
+  ociReference: ghcr.io/e-gineering/devcontainer-templates
 - name: ROS2 devcontainer Template
   maintainer: Tony Najjar
   contact: https://github.com/tonynajjar/ros2_devcontainer_template/issues
