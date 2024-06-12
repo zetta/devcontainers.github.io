@@ -19,7 +19,7 @@ Goals include:
 
 A Template's source code is stored in a git repository.
 
-For ease of authorship and maintenance, [1..n] Templates can share a single git repository. This set of Templates is referred to as a "collection," and will share the same [`devcontainer-collection.json`](#devcontainer-collection.json) file and "namespace" (eg. `<owner>/<repo>`).
+For ease of authorship and maintenance, [1..n] Templates can share a single git repository. This set of Templates is referred to as a "collection," and will share the same [`devcontainer-collection.json`](#devcontainer-collection) file and "namespace" (eg. `<owner>/<repo>`).
 
 > **Note:** Templates and [Features](/implementors/features) should be placed in different git repositories. 
 
