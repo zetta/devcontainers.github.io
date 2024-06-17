@@ -822,4 +822,9 @@
   maintainer: Carsten Behring
   contact: https://github.com/scicloj/devcontainer-templates/issues
   repository: https://github.com/scicloj/devcontainer-templates/
-  ociReference: ghcr.io/scicloj/devcontainer-templates  
+  ociReference: ghcr.io/scicloj/devcontainer-templates
+- name: Synology devcontainer Templates
+  maintainer: ChaosWars
+  contact: https://github.com/ChaosWars/synology-features/issues
+  repository: https://github.com/ChaosWars/synology-features/
+  ociReference: ghcr.io/chaoswars/synology-features
