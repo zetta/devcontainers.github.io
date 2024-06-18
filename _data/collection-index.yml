@@ -828,3 +828,8 @@
   contact: https://github.com/ChaosWars/synology-features/issues
   repository: https://github.com/ChaosWars/synology-features/
   ociReference: ghcr.io/chaoswars/synology-features
+- name: Assorted Features
+  maintainer: tcaky
+  contact: https://github.com/tcaky/devcontainer-features/issues
+  repository: https://github.com/tcaky/devcontainer-features
+  ociReference: ghcr.io/tcaky/devcontainer-features
