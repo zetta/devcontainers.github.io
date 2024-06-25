@@ -8,6 +8,11 @@
   contact: https://github.com/devcontainers/templates/issues
   repository: https://github.com/devcontainers/templates
   ociReference: ghcr.io/devcontainers/templates
+- name: Azure SQL Database Dev Container Templates
+  maintainer: Azure SQL Developer Experiences Team
+  contact: https://github.com/microsoft/azuresql-devcontainers/issues
+  repository: https://github.com/microsoft/azuresql-devcontainers
+  ociReference: ghcr.io/microsoft/azuresql-devcontainers
 - name: Iterative Tools for Machine Learning Features
   maintainer: Iterative, Inc
   contact: https://github.com/iterative/features/issues
@@ -833,3 +838,4 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
+  
