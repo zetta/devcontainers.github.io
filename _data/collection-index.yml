@@ -833,9 +833,13 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
+- name: Devcontainer Features by nikiforovall
+  maintainer: nikiforovall
+  contact: https://github.com/nikiforovall/devcontainer-features/issues
+  repository: https://github.com/nikiforovall/devcontainer-features
+  ociReference: ghcr.io/nikiforovall/devcontainer-features
 - name: Dev Container Templates by matheusfvesco
   maintainer: matheusfvesco
   contact: https://github.com/matheusfvesco/devcontainer-templates/issues
   repository: https://github.com/matheusfvesco/devcontainer-templates
   ociReference: ghcr.io/matheusfvesco/devcontainer-templates
-  
