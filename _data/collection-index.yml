@@ -833,6 +833,11 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
+- name: Dev Container Features by enrico9034
+  maintainer: enrico9034
+  contact: https://github.com/enrico9034/devcontainer-features/issues
+  repository: https://github.com/enrico9034/devcontainer-features
+  ociReference: ghcr.io/enrico9034/devcontainer-features
 - name: Dev Container Templates by ThePhaseless
   maintainer: ThePhaseless
   contact: https://github.com/ThePhaseless/devcontainer-templates/issues
