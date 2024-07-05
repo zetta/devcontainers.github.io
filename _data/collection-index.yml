@@ -678,10 +678,10 @@
   contact: https://github.com/rsm-hcd
   repository: https://github.com/rsm-hcd/devcontainer-templates
   ociReference: ghcr.io/rsm-hcd/devcontainer-templates
-- name: Additional Dev Container Features by Georg Ofenbeck 
+- name: Additional Dev Container Features by Georg Ofenbeck
   maintainer: Georg Ofenbeck
   contact: https://github.com/GeorgOfenbeck/features/issues
-  repository: https://github.com/GeorgOfenbeck/features 
+  repository: https://github.com/GeorgOfenbeck/features
   ociReference: ghcr.io/georgofenbeck/features
 - name: Dev Container Features by Niko Böckerman
   maintainer: Niko Böckerman
@@ -707,7 +707,7 @@
   maintainer: johnluicn
   contact: https://github.com/johnluicn/devcontainer-templates/issues
   repository: https://github.com/johnluicn/devcontainer-templates
-  ociReference: ghcr.io/johnluicn/devcontainer-templates  
+  ociReference: ghcr.io/johnluicn/devcontainer-templates
 - name: Bob buildsystem and DevBox features
   maintainer: Dirk Louwers
   contact: https://github.com/dlouwers/devcontainer-features/issues
@@ -767,7 +767,7 @@
   maintainer: Cadu Ribeiro
   contact: https://github.com/duduribeiro/devcontainer-features/issues
   repository: https://github.com/duduribeiro/devcontainer-features/
-  ociReference: ghcr.io/duduribeiro/devcontainer-features  
+  ociReference: ghcr.io/duduribeiro/devcontainer-features
 - name: Dev Container Features by skriptfabrik
   maintainer: skriptfabrik
   contact: https://github.com/skriptfabrik/devcontainer-features/issues
@@ -858,3 +858,8 @@
   contact: https://github.com/matheusfvesco/devcontainer-templates/issues
   repository: https://github.com/matheusfvesco/devcontainer-templates
   ociReference: ghcr.io/matheusfvesco/devcontainer-templates
+- name: Dennis Irsigler Dev Container Features
+  maintainer: dirsigler
+  contact: https://github.com/dirsigler/devcontainer-features/issues
+  repository: https://github.com/dirsigler/devcontainer-features
+  ociReference: ghcr.io/dirsigler/devcontainer-features
