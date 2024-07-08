@@ -863,3 +863,8 @@
   contact: https://github.com/dirsigler/devcontainer-features/issues
   repository: https://github.com/dirsigler/devcontainer-features
   ociReference: ghcr.io/dirsigler/devcontainer-features
+- name: Dev Container Templates by sleter
+  maintainer: sleter
+  contact: https://github.com/sleter/mojo-devcontainer/issues
+  repository: https://github.com/sleter/mojo-devcontainer
+  ociReference: ghcr.io/sleter/mojo-devcontainer
