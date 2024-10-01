@@ -942,3 +942,8 @@
   contact: https://github.com/devcontainers-extra/features/issues
   repository: https://github.com/devcontainers-extra/features
   ociReference: ghcr.io/devcontainers-extra/features
+- name: devcontainer features by bas.codes
+  maintainer: Bas Steins
+  contact: https://bas.bio
+  repository: https://github.com/sebst/devcontainer-features
+  ociReference: ghcr.io/sebst/devcontainer-features
