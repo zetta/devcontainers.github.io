@@ -961,4 +961,9 @@
   maintainer: David Zucker
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
-  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi
+- name: devcontainer features by zetta
+  maintainer: zetta
+  contact: https://github.com/zetta/devcontainer-features/issues
+  repository: https://github.com/zetta/devcontainer-features
+  ociReference: ghcr.io/zetta/devcontainer-features
